@@ -3,4 +3,8 @@
         "avatar": "https://pokeres.bastionbot.org/images/pokemon/1.png",
         "name": "John Doe"
     }
+    ,{
+        "avatar": "https://pokeres.bastionbot.org/images/pokemon/2.png",
+        "name": "Lorem Ipsum"
+    }
 ]
