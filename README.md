@@ -3,9 +3,6 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/dscssgi/git-n-github-101/blob/master/LICENSE" target="_blank">
-  <img src="https://img.shields.io/github/license/dscssgi/git-n-github-101?style=for-the-badge" />
-  </a> 
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge" alt="PRs Welcome" /> 
   <a href="https://github.com/dscssgi/git-n-github-101/pulls" target="_blank">
     <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/dscssgi/git-n-github-101?style=for-the-badge" />
